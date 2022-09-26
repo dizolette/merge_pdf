@@ -6,7 +6,7 @@ import os
 merger = PdfFileMerger()
 
 #Define the path to the folder with the PDF files
-path_to_files = r'pdf-files/'
+path_to_files = r'input-pdf/'
 
 #Get the file names in the directory
 for root, dirs, file_names in os.walk(path_to_files):
