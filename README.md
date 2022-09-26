@@ -5,6 +5,8 @@ A simple tool to merge your pdf easily.
 
 ## How To Use
 1. download [template](https://github.com/dizolette/merge_pdf/tree/master/template) folder.
+![image](https://user-images.githubusercontent.com/11461447/192295246-c82f31bd-510f-4fb1-aa75-8c2d277db833.png)
+go to the code button, and then choose download zip.
 2. place the pdfs that you want to merge.
 3. double click / run merge.exe inside template folder.
 4. merged pdf will generated with filename : "merge_all_pages.pdf"
